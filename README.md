@@ -1,0 +1,1 @@
+# OpenCV-Hand-placement-project
